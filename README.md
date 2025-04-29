@@ -64,17 +64,4 @@ Zastrzeżenie
 Ta aplikacja jest narzędziem pomocniczym i nie zastępuje profesjonalnej porady księgowej lub podatkowej.
 Obliczenia są oparte na danych publicznie dostępnych z API NBP, ale mogą nie uwzględniać wszystkich specyficznych przepisów podatkowych lub sytuacji indywidualnej użytkownika.
 Zawsze skonsultuj się z kwalifikowanym doradcą podatkowym, aby potwierdzić swoje zobowiązania podatkowe.
-<!-- end list -->
-
-
-**Co zostało zmienione/poprawione:**
-
-1.  **Listy:** Punkty w sekcjach "Funkcje" i "Technologie" zostały sformatowane jako listy nieuporządkowane przy użyciu `-`. Punkty w sekcji "Jak używać" zostały sformatowane jako lista uporządkowana przy użyciu numerów `1.`, `2.`, itd.
-2.  **Wcięcie:** Dodano wcięcia dla elementów list, aby poprawić czytelność.
-3.  **Link Klonowania:** Zmieniłem adres repozytorium w sekcji instalacji na placeholder `https://github.com/twoja-nazwa-uzytkownika/currency-tax-calculator.git`. Pamiętaj, aby **zmienić ten adres na rzeczywisty adres Twojego repozytorium na GitHubie** po jego utworzeniu/wypchnięciu projektu.
-4.  **Opis Format JSON:** Dodałem krótkie zdanie wprowadzające do sekcji "Format danych JSON".
-5.  **Sekcja Zastrzeżenie:** Dodałem przykładową treść dla sekcji "Zastrzeżenie", co jest ważne dla aplikacji finansowych/podatkowych. Możesz ją edytować lub rozbudować.
-6.  **Spójność:** Dodałem puste linie między sekcjami i przed blokami kodu/listami, co poprawia rendering i czytelność w podglądzie Markdown.
-
-
 
