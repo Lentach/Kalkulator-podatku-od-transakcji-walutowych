@@ -76,9 +76,5 @@ Zawsze skonsultuj się z kwalifikowanym doradcą podatkowym, aby potwierdzić sw
 5.  **Sekcja Zastrzeżenie:** Dodałem przykładową treść dla sekcji "Zastrzeżenie", co jest ważne dla aplikacji finansowych/podatkowych. Możesz ją edytować lub rozbudować.
 6.  **Spójność:** Dodałem puste linie między sekcjami i przed blokami kodu/listami, co poprawia rendering i czytelność w podglądzie Markdown.
 
-Teraz po wklejeniu tego tekstu do pliku `README.md` w głównym katalogu Twojego projektu i wypchnięciu go na GitHub, będzie on wyglądał profesjonalnie i czytelnie.
-
-
-
 
 
